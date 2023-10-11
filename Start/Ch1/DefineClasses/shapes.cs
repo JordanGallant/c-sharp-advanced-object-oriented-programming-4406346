@@ -2,6 +2,9 @@
 // Defining and instantiating classes
 
 // TODO: Define a class using the "class" keyword
+class shapes {
+    
+}
 
     // TODO: The constructor accepts parameters used to create the object
 
